@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on competitive programing <br>🤝 I’m looking for help with internships and projects<br>🌱 I’m currently learning c++<br>💬 Ask me about coding
+🔭 I’m currently working on competitive programing <br>🤝 I’m looking for help with internships and projects<br>🌱 I’m currently learning backend<br>💬 Ask me about coding
 
 
 ## 🌐 Socials:
