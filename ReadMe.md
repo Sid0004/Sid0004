@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SIDDHANT SHARMA</h1>
-<h3 align="center">A passionate SOFTWARE DEVELOPMENT AND ENGINEERING from India</h3>
+<h3 align="center">A passionate SOFTWARE ENGINEER from India</h3>
 
 - 🔭 I’m currently working on **BACKEND DEVELOPMENT RELATED PROJECTS**
 
