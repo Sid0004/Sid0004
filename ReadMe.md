@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siddhant Sharma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sid0004&label=Profile%20views&color=0e75b6&style=flat" alt="sid0004" /> </p>
 
-- 🔭 I’m currently working on [DEVMEET](https://github.com/Sid0004/DEVMEET)
+
+- 🔭 I’m currently working on [AYURCHAIN]((https://github.com/Sid0004/ayurchain-trace-path))]
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sid0004](https://github.com/Sid0004)
 
