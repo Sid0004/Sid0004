@@ -33,7 +33,7 @@ A tech enthusiast passionate about exploring cutting-edge technologies and frame
   </thead>
 </tr>
 <tr>
-<td valign="top" width="33%">  
+<td valign="top" width="40%">  
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -66,7 +66,7 @@ A tech enthusiast passionate about exploring cutting-edge technologies and frame
 </div>
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="40%">
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
