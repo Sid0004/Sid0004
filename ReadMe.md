@@ -3,7 +3,7 @@
   
 
 
-<table>
+<table style="font-size: 14px;">
   <tr>
     <td valign="top">
       <ul style="list-style: none; padding-left: 0;">
