@@ -135,18 +135,6 @@ So far, I've built <b>20+ impactful projects</b> across AI, full-stack engineeri
 
 </div>
 
-<div align="center">
-  
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sid0004&theme=aura" width="400" alt="Stats" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sid0004&theme=aura&utcOffset=8" width="400" alt="Productive Time" />
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid0004&theme=aura&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 <div align="center">
   
