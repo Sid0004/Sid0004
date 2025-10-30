@@ -1,29 +1,89 @@
 ### <div align="center">What's up? I'm Siddhant Sharma
-<h1 align="center"><img src="https://camo.githubusercontent.com/904e617cbe479d2db4ef9bad0c4a4aaca99da24156b9f19bc440e9fb284d21ac/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663434625f31663366622f3531322e77656270" width="40px">
-A tech enthusiast passionate about exploring cutting-edge technologies and frameworks, with a thrilling journey in programming. I'm always eager to seize new opportunities for learning and growth, particularly in c++, Backend, and open-source projects.</div>  
+<h1 align="center"><img src="https://camo.githubusercontent.com/904e617cbe479d2db4ef9bad0c4a4aaca99da24156b9f19bc440e9fb284d21ac/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663434625f31663366622f3531322e77656270" width="40px"><br>
   
 
--  Computer Science background 🖥️💻  
-  
 
-- Open Source Contributor and competitive programmer 
-  
-
-- Full Stack Engineer  
-  
-
-- c++ and TS enjoyer
-  
-
-- Ask me about anything :question:
-  
-<br/> 
-
-💻 Full Stack Engineering
-<div align="center"> I design and develop scalable web applications from frontend to backend. My work spans React, FastAPI with a focus on building clean APIs, modern UI/UX, and efficient data pipelines, as well as deploying applications at scale using cloud services such as AWS. I also have extensive experience with relational and NoSQL databases, a strong understanding of ACID principles and normalization, and my database of choice is PostgreSQL. </div>
-
-<br/>
-
+<table>
+  <tr>
+    <td valign="top">
+      <ul style="list-style: none; padding-left: 0;">
+        <p align="center">
+          <br><img src="https://komarev.com/ghpvc/?username=Sid0004&label=Profile%20views&color=0e75b6&style=flat" alt="codeaashu" />
+        </p>
+        <h3 align="center">
+          Crafting intelligent, production-grade software with precision and passion — building solutions that actually matter.
+          <br><br>
+          So far, I've built 20+ impactful projects across AI, full-stack engineering, and real-time systems.
+          <br>(From personal experiments to hackathon-winning prototypes.)
+          <hr>
+        </h3>
+        <li>Team Lead & AI Engineer — driving teams to design scalable systems powered by machine learning and modern web tech.</li>
+<li>Founder of <b>NeuroShell</b> — an AI-powered terminal interface that blends intelligence, creativity, and engineering.</li>
+<li>Built <b>DevMeet</b> — a real-time collaborative coding and video platform using WebRTC, Liveblocks, and CodeMirror.</li>
+<li>Mostly working with Conversational AI, React, Next.js, Node.js, and LLM integrations while constantly exploring new AI frameworks.</li>
+<li>Available for contract-based projects in AI Engineering, Full-Stack Development, and Product Innovation.</li>
+<li>Actively contributing to open source and participating in major hackathons — including SIH, TCS CodeVita, and Google’s Agentic AI Hackathon.</li>
+<li>Pursuing excellence in software engineering, leadership, and innovation.</li>
+      </ul>
+    </td>
+    <!-- RIGHT SIDE IMAGE + SOCIAL LINKS -->
+    <td align="center" valign="top" width="300">
+      <!-- Coding GIF -->
+      <br><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
+      <!-- Social Links -->
+      <br><br>
+      <img src="assets/hi.gif" width="150" alt="Connect with me" /><br>
+      <a href="https://www.linkedin.com/in/ashutoshkumarashu/">
+        <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="https://x.com/warrior_aashuu">
+        <img src="https://img.shields.io/badge/Twitter-00384d?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+      </a>
+      <a href="mailto:hellow.ashutosh@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      </a>
+      <a href="https://www.instagram.com/warrior_aashuu/">
+        <img src="https://img.shields.io/badge/Instagram-00384d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      </a>
+      <a href="https://www.youtube.com/@creativityofaashu">
+        <img src="https://img.shields.io/badge/YouTube-00384d?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+      </a>
+      <a href="https://in.pinterest.com/codeaashu/">
+        <img src="https://img.shields.io/badge/Pinterest-00384d?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
+      </a>
+      <a href="https://hashnode.com/@codeaashu">
+        <img src="https://img.shields.io/badge/hashnode-00384d?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+      </a>
+      <a href="https://www.figma.com/@codeaashu">
+        <img src="https://img.shields.io/badge/Figma-00384d?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+      </a>
+      <a href="https://www.fiverr.com/warrior_aashuu">
+        <img src="https://img.shields.io/badge/Fiverr-00384d?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+      </a>
+      <a href="https://www.reddit.com/user/warrior_aashuu/">
+        <img src="https://img.shields.io/badge/Reddit-00384d?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+      </a>
+      <a href="https://discord.com/channels/@warrior_aashuu">
+        <img src="https://img.shields.io/badge/Discord-00384d?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+      </a>
+      <a href="https://dev.to/codeaashu">
+        <img src="https://img.shields.io/badge/Dev-00384d?style=for-the-badge&logo=dev&logoColor=white" alt="Dev" />
+      </a>
+     <a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/">
+        <img src="https://img.shields.io/badge/Microsoft-00384d?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" />
+     </a>
+     <a href="https://codeforces.com/profile/codeaashu">
+        <img src="https://img.shields.io/badge/Codeforces-00384d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+     </a>
+     <a href="https://warrioraashuu.medium.com/">
+        <img src="https://img.shields.io/badge/Medium-00384d?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+     </a>
+     <a href="https://www.devdisplay.org/profile/codeaashu" style="display: flex; align-items: center; gap: 8px;">
+        <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" width="24" height="24" style="vertical-align: middle;" alt="DevDisplay Logo" />
+     </a>
+    </td>
+  </tr>
+</table>
 <table align="center">
 <tr>
   <thead>
