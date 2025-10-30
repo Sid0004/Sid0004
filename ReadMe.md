@@ -40,7 +40,7 @@
         <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
       </a>
      <a href="https://www.codechef.com/users/its_siddhant">
-        <img src="https://imgs.search.brave.com/LesrBA4C_e7_9uAfyD-Y6Ns_pqkexeYGGpjIxoIcz08/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2VmLzNj/LzNmL2VmM2MzZmQ5/NzNjZTY4OTBiMzJk/MjdiZTdhMDUwYjYy/LmpwZw" alt="Codeforces" />
+        <img src="https://img.shields.io/badge/Codeforces-00384d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
      </a>
     </td>
   </tr>
