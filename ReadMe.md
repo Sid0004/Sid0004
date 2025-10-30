@@ -33,53 +33,14 @@
       <!-- Social Links -->
       <br><br>
       <img src="assets/hi.gif" width="150" alt="Connect with me" /><br>
-      <a href="https://www.linkedin.com/in/ashutoshkumarashu/">
+      <a href="https://www.linkedin.com/in/siddhant-sharma-b24860249/">
         <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
-      <a href="https://x.com/warrior_aashuu">
-        <img src="https://img.shields.io/badge/Twitter-00384d?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-      </a>
-      <a href="mailto:hellow.ashutosh@gmail.com">
+      <a href="mailto:siddhantsharma4uonly@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
       </a>
-      <a href="https://www.instagram.com/warrior_aashuu/">
-        <img src="https://img.shields.io/badge/Instagram-00384d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-      </a>
-      <a href="https://www.youtube.com/@creativityofaashu">
-        <img src="https://img.shields.io/badge/YouTube-00384d?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-      </a>
-      <a href="https://in.pinterest.com/codeaashu/">
-        <img src="https://img.shields.io/badge/Pinterest-00384d?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
-      </a>
-      <a href="https://hashnode.com/@codeaashu">
-        <img src="https://img.shields.io/badge/hashnode-00384d?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
-      </a>
-      <a href="https://www.figma.com/@codeaashu">
-        <img src="https://img.shields.io/badge/Figma-00384d?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-      </a>
-      <a href="https://www.fiverr.com/warrior_aashuu">
-        <img src="https://img.shields.io/badge/Fiverr-00384d?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
-      </a>
-      <a href="https://www.reddit.com/user/warrior_aashuu/">
-        <img src="https://img.shields.io/badge/Reddit-00384d?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
-      </a>
-      <a href="https://discord.com/channels/@warrior_aashuu">
-        <img src="https://img.shields.io/badge/Discord-00384d?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-      </a>
-      <a href="https://dev.to/codeaashu">
-        <img src="https://img.shields.io/badge/Dev-00384d?style=for-the-badge&logo=dev&logoColor=white" alt="Dev" />
-      </a>
-     <a href="https://learn.microsoft.com/en-gb/users/ashutoshkumar-0101/">
-        <img src="https://img.shields.io/badge/Microsoft-00384d?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" />
-     </a>
-     <a href="https://codeforces.com/profile/codeaashu">
-        <img src="https://img.shields.io/badge/Codeforces-00384d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-     </a>
-     <a href="https://warrioraashuu.medium.com/">
-        <img src="https://img.shields.io/badge/Medium-00384d?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-     </a>
-     <a href="https://www.devdisplay.org/profile/codeaashu" style="display: flex; align-items: center; gap: 8px;">
-        <img src="https://www.devdisplay.org/DevDisplay%20ICON.png" width="24" height="24" style="vertical-align: middle;" alt="DevDisplay Logo" />
+     <a href="https://www.codechef.com/users/its_siddhant">
+        <img src="https://imgs.search.brave.com/LesrBA4C_e7_9uAfyD-Y6Ns_pqkexeYGGpjIxoIcz08/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2VmLzNj/LzNmL2VmM2MzZmQ5/NzNjZTY4OTBiMzJk/MjdiZTdhMDUwYjYy/LmpwZw" alt="Codeforces" />
      </a>
     </td>
   </tr>
@@ -99,12 +60,10 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 </div>
 </td>
 
@@ -116,7 +75,6 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
