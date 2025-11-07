@@ -116,11 +116,11 @@ So far, I've built <b>20+ impactful projects</b> across AI, full-stack engineeri
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<!-- <div align="center">
   
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sid0004&theme=react-dark&hide_border=true&area=true)
 
-</div>
+</div> -->
 
 <div align="center">
   
@@ -136,11 +136,11 @@ So far, I've built <b>20+ impactful projects</b> across AI, full-stack engineeri
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
   
 <img src="https://github-profile-trophy.vercel.app/?username=Sid0004&theme=aura&no-frame=true&row=1&column=7" alt="Trophies" />
 
-</div>
+</div> -->
 
 ---
 
