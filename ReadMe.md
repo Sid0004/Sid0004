@@ -114,13 +114,13 @@ So far, I've built <b>20+ impactful projects</b> across AI, full-stack engineeri
 
 ---
 
-## 📊 GitHub Stats  
+<!-- ## 📊 GitHub Stats  
 
 <!-- <div align="center">
   
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sid0004&theme=react-dark&hide_border=true&area=true)
 
-</div> -->
+</div> 
 
 <div align="center">
   
@@ -133,7 +133,7 @@ So far, I've built <b>20+ impactful projects</b> across AI, full-stack engineeri
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sid0004&theme=aura" width="400" alt="Repos per Language" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sid0004&theme=aura" width="400" alt="Most Commit Language" />
 
-</div>
+</div>-->
 
 
 <!-- <div align="center">
