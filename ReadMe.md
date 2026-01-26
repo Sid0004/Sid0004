@@ -1,4 +1,4 @@
-# <div align="center"><h1 align="center"><width="40px"> What's up? I'm Siddhant Sharma</div>
+# <div align="center"><h1 align="center"> What's up? I'm Siddhant Sharma</div>
 
 <p align="center">
   
